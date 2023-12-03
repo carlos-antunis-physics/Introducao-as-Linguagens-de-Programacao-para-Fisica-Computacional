@@ -1,5 +1,7 @@
 # Introducao às Linguagens de Programação para Física Computacional
 
+Autor: [C. Antunis B. da S. Santos](https://github.com/carlos-antunis-physics/)
+
 ![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
 <!--
 ![Linguagem Fortran](https://img.shields.io/badge/Linguagem%20Fortran-4d41b1?style=plastic)
