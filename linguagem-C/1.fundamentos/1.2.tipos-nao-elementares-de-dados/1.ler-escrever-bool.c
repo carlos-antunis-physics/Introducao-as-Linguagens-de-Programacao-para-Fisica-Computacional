@@ -13,8 +13,8 @@ int main(void)
     lgcl = (_Bool)resposta;          //  bool equivale a int com 0=False e 1=True
     //  Escrever o valor lógico informado pelo usuário
     printf(
-        "O booleano informado foi: ",
-        "%s\n",                     // (%s especifica a presença de uma mensagem)
+        "O booleano informado foi: %s\n",
+                                    // (%s especifica a presença de uma mensagem)
         (lgcl)?"True":"False"       // ((X)?A:B retorna A se X é 0 e B caso contrário)
     );
     return 0;

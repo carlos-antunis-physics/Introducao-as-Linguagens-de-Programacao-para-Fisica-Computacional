@@ -7,10 +7,10 @@ int main(void)
     double _Complex resultado;
     //  Requisitar que o usuário insira os operandos
     printf("Insira o primeiro operando complexo: ");
-    scanf("(%lf,%lf)", &Re, &Im);
+    scanf("%lf %lf", &Re, &Im);
     num_1 = Re + 1.0i * Im;
-    printf("Insira o primeiro operando complexo: ");
-    scanf("(%lf,%lf)", &Re, &Im);
+    printf("Insira o segundo operando complexo: ");
+    scanf("%lf %lf", &Re, &Im);
     num_2 = Re + 1.0i * Im;
     //  Escrever o valor resultado das operações
     resultado = num_1 + num_2;      // Computar a adição

@@ -10,6 +10,6 @@ int main(void)
     lgcl = (_Bool)resposta;
     //  Escrever o valor lógico da negacao informado pelo usuário
     nao_lgcl = !lgcl;               // Computar a negação
-    printf("O booleano informado foi: %s\n", (nao_lgcl)?"True":"False");
+    printf("A negação do booleano informado foi: %s\n", (nao_lgcl)?"True":"False");
     return 0;
 }
