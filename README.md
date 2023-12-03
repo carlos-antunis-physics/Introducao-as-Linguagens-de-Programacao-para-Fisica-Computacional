@@ -8,7 +8,7 @@ Autor: [C. Antunis B. da S. Santos](https://github.com/carlos-antunis-physics/)
 ![Linguagem MATLAB](https://img.shields.io/badge/Linguagem%20MATLAB-e16737?style=plastic)
 -->
 
-> Repositório que objetiva auxiliar interessados na área de Física Computacional contendo alguns exemplos nas linguagens de programação mais relevantemente empregadas na implementação de simulações computacionais.
+> Repositório que objetiva auxiliar interessados na área de Física Computacional, contendo alguns exemplos nas linguagens de programação mais relevantemente empregadas na implementação de simulações computacionais.
 
 Dado que a só se pode aprender programação por de fato programar, este repositório dispõe de alguns códigos-fontes fundamentais para a compreensão do funcionamento de cada linguagem de programação apresentada, bem como a implementação nessas de alguns algoritmos interessantes de Física Computacional.
 
