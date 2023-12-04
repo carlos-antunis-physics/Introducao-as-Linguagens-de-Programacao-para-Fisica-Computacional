@@ -1,4 +1,4 @@
-# Introducao às Linguagens de Programação para Física Computacional
+# Aspectos de Física Computacional
 
 Autor: [C. Antunis B. da S. Santos](https://github.com/carlos-antunis-physics/)
 
